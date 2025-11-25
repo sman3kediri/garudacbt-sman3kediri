@@ -1,4 +1,12 @@
-# GarudaCBT
+# GarudaCBT-SMAN 3 Kediri
+____
+#### Perbedaan dengan versi asli GarudaCBT
+- Tampilan pada saat ujian dibuat semirip mungkin dengan tampilan ANBK atau TKA 
+- Menghapus fitur yang tidak diperlukan
+____
+
+# Readme dari pengembang awal
+
 ## Last version: 1.5.3  (FIXED)
 ____
 #### LAPORAN BUG SILAKAN KUNJUNGI GROUP TELEGRAM [DISINI](http://t.me/garudacbt)
