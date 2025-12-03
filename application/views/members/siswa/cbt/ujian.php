@@ -17,8 +17,8 @@
                         <img src="<?= base_url() ?>/assets/img/garuda_circle.png" width="60" height="60">
                         <div class="info-box-content">
                                 <span class="text-white"
-                                      style="font-size: 24pt; line-height: 0.7;"><b>GarudaCBT</b></span>
-                            <span class="text-white">C B T   A p p l i c a t i o n</span>
+                                      style="font-size: 24pt; line-height: 0.7;"><b>SMAGA-CBT</b></span>
+                            <span class="text-white">SMA Negeri 3 Kediri</span>
                         </div>
                     </div>
                 </div>
