@@ -1,4 +1,4 @@
-<nav class="main-header navbar navbar-expand-md navbar-dark navbar-green border-bottom-0">
+<nav class="main-header navbar navbar-expand-md navbar-dark navbar-black border-bottom-0">
     <ul class="navbar-nav ml-2">
         <li class="nav-item">
             <?php
