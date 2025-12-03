@@ -156,7 +156,7 @@ $display_logout = $this->uri->segment(2) == "penilaian" ? 'd-none' : '';
 
 <body class="layout-top-nav layout-navbar-fixed">
 <div class="wrapper">
-    <nav class="main-header navbar navbar-expand-md navbar-dark navbar-green border-bottom-0">
+    <nav class="main-header navbar navbar-expand-md navbar-dark navbar-black border-bottom-0">
         <ul class="navbar-nav ml-2 <?= $dnone ?>" id="back">
             <li class="nav-item">
                 <a href="<?= base_url('dashboard') ?>" type="button" class="btn btn-success" id="url-back">
