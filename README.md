@@ -3,6 +3,7 @@ ____
 #### Perbedaan dengan versi asli GarudaCBT
 - Tampilan pada saat ujian dibuat semirip mungkin dengan tampilan ANBK atau TKA 
 - Menghapus fitur yang tidak diperlukan
+- Dikustomisasi sesuai kebutuhan SMA Negeri 3 Kediri
 ____
 
 # Readme dari pengembang awal
