@@ -47,7 +47,7 @@
                         </div>
                         <div class="row">
                             <div class="col-8">
-                                <div class="icheck-cyan">
+                                <div class="icheck-cyan" style="display: none;">
                                     <input type='checkbox' id="cbt-only" name='cbt-only'
                                            value='1' checked="checked"/>
                                     <label for="cbt-only">Login CBT</label>
